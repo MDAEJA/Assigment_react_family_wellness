@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img-div{
+    /* border: 2px solid black; */
+   margin-left: 20%;
+   margin-right: 20%;
+   padding: 10px 10px;
+   height: 300px;
+   background-image: url('https://media.istockphoto.com/id/539440276/photo/working-through-some-details.webp?b=1&s=170667a&w=0&k=20&c=RlOvszins66cFTAM-weWgSbbzbaR3iXusFDrJByA4M4=');
+   background-repeat: no-repeat;
+   /* height: auto; */
+   background-size: 100% 100%;
+   background-position: center;
+   
+}
+.text-div{
+    /* border: 2px solid black; */
+   margin-left: 20%;
+   margin-right: 20%;
+   padding: 40px 40px;
+   background-color: rgba(190, 11, 41, 0.841);
+   display: flex;
+   flex-direction: column;
+   /* padding: 10px 50px; */
+   text-align: center;
+   gap: 20px;
+   color: white;
+
+}
+.service-details{
+    /* border: 2px solid black; */
+   margin-left: 20%;
+   margin-right: 20%;
+   padding: 20px 20px;
+
+}
+.service-text{
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-style: oblique;
+    border-bottom: 2px solid  rgba(190, 11, 41, 0.841);
+
+}
